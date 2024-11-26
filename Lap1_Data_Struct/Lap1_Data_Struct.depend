@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732626448 source:d:\iti\7-data_structure_and_algorithms\lap1_data_struct\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1732626958 d:\iti\7-data_structure_and_algorithms\lap1_data_struct\linkedlist.h
+	"Node.h"
+
+1732619539 d:\iti\7-data_structure_and_algorithms\lap1_data_struct\node.h
+
